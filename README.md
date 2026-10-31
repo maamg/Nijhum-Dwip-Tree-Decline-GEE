@@ -87,8 +87,8 @@ Dynamic World annual composites are restricted to **November–December**. Senti
 
 ## How to run the analysis
 
-1. Open the [Google Earth Engine Code Editor](https://code.earthengine.google.com/) with an account that has Earth Engine access.
-2. Open **[the JavaScript script](scripts/Nijhum_TreeProbability_Decline_Main.js)**, copy its contents into a new GEE script, and review the study-area selection, years, and thresholds.
+1. **[Open the analysis directly in Google Earth Engine](https://code.earthengine.google.com/cd61b222b9b34522654bba02cff97f8d)** (Earth Engine access required). This is a **shared code snapshot**; it does not automatically track later edits.
+2. Alternatively, open the **[versioned JavaScript source in this repository](scripts/Nijhum_TreeProbability_Decline_Main.js)** and copy it into your own [GEE Code Editor](https://code.earthengine.google.com/). Review the study-area selection, years, and thresholds before running.
 3. Run the script and inspect the **Console** outputs, annual source-image counts, map layers, charts, sensitivity summaries, and area-QC differences.
 4. If needed, run the two `Export.image.toDrive` tasks from the **Tasks** tab. The figures in this repository are the separately composed **ArcGIS Pro layouts**, not raw GEE exports.
 

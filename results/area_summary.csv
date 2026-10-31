@@ -1,0 +1,9 @@
+
+metric,value,unit
+total_study_area,16229.243474,ha
+baseline_high_tree_2017,3162.327666,ha
+candidate_tree_decline,302.628845,ha
+persistent_tree_decline,189.261731,ha
+candidate_pct_of_baseline,9.569813,percent
+persistent_pct_of_baseline,5.984887,percent
+persistent_pct_of_AOI,1.166177,percent
